@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AWS-Flashcards/static/css/main.c2cab247.css",
+    "main.js": "/AWS-Flashcards/static/js/main.e420a68d.js",
+    "index.html": "/AWS-Flashcards/index.html",
+    "main.c2cab247.css.map": "/AWS-Flashcards/static/css/main.c2cab247.css.map",
+    "main.e420a68d.js.map": "/AWS-Flashcards/static/js/main.e420a68d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.e420a68d.js"
+  ]
+}
